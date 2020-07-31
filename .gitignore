@@ -1,0 +1,14 @@
+*.aux
+*~
+*.toc
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.log
+*.o
+*.mod
+*.exe
+*\#
+.\#*
+*.zip
