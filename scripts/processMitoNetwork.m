@@ -41,4 +41,5 @@ hold off
 
 %%
 % voxelate the network for several different voxel sizes
-allmitoimgs = voxelateMitoNetwork(NT,[0.043,0.065,0.1083,0.1625],options)
+vxsizes = [0.043,0.065,0.1083,0.1625];
+allmitoimgs = voxelateMitoNetwork(NT,vxsizes);
